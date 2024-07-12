@@ -1,0 +1,28 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "My first Post",
+      "dateTime": "July 01, 2021 11:17:36 AM",
+      "body": "Made a video about Tesla Q1 results"
+    },
+    {
+      "id": "3",
+      "title": "Sushmitha",
+      "dateTime": "July 12, 2024 10:14:51 AM",
+      "body": "My loveee...."
+    },
+    {
+      "id": "4",
+      "title": "Thanush",
+      "dateTime": "July 12, 2024 10:14:35 AM",
+      "body": "Awesomeee!!"
+    },
+    {
+      "id": "41",
+      "title": "Krish",
+      "datetime": "July 12, 2024 10:15:54 AM",
+      "body": "Son of Thanush & Sushmi!"
+    }
+  ]
+}
